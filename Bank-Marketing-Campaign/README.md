@@ -30,4 +30,4 @@
 **Filter:** 
 <img width="1434" height="801" alt="Image" src="https://github.com/user-attachments/assets/2a89cc72-7e66-4539-9004-71e3a7481dde" />
 
-[Download the .pbix file](Bank-Marketing-Campaign/Banking.pbix)
+[Download the .pbix file](https://github.com/sohvk/PowerBI-Porfolio/tree/8becd2a152b72e8c2c994d6d7989e2648830d086/Bank-Marketing-Campaign/PowerBI-file)
