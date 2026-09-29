@@ -30,4 +30,4 @@
 **Filter:** 
 <img width="1434" height="801" alt="Image" src="https://github.com/user-attachments/assets/2a89cc72-7e66-4539-9004-71e3a7481dde" />
 
-[Download the .pbix file](Bank-Marketing-Campaign/bank-marketing-campaign.pbix)
+[Download the .pbix file](Bank-Marketing-Campaign/Banking.pbix)
