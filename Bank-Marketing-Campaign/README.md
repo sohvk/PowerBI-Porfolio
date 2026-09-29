@@ -17,7 +17,7 @@
 
 ![Landing page](Bank-Marketing-Campaign/images/bank-marketing-landing.png)
 ![Overview page](Bank-Marketing-Campaign/images/banking-marketing-overview.png)
-![Customer segmentation page](Bank-Marketing-Campaign/images/bank-marketing-customer.png)
+![Customer segmentation page](Bank-Marketing-Campaign/images/bank-marketing-campaign-customer)
 ![Predictive insights page](Bank-Marketing-Campaign/images/bank-marketing-insights.png)
 ![Hidden filter panel on customer page](Bank-Marketing-Campaign/images/bank-marketing-filter.png)
 
