@@ -15,10 +15,10 @@
 
 ### Preview
 
-![Landing page](images/bank-marketing-landing.png)
-![Overview page](images/banking-marketing-overview.png)
-![Customer segmentation page](images/bank-marketing-customer.png)
-![Predictive insights page](images/bank-marketing-insights.png)
-![Hidden filter panel on customer page](images/bank-marketing-filter.png)
+![Landing page](Bank-Marketing-Campaign/images/bank-marketing-landing.png)
+![Overview page](Bank-Marketing-Campaign/images/banking-marketing-overview.png)
+![Customer segmentation page](Bank-Marketing-Campaign/images/bank-marketing-customer.png)
+![Predictive insights page](Bank-Marketing-Campaign/images/bank-marketing-insights.png)
+![Hidden filter panel on customer page](Bank-Marketing-Campaign/images/bank-marketing-filter.png)
 
 [Download the .pbix file](Bank-Marketing-Campaign/bank-marketing-campaign.pbix)
