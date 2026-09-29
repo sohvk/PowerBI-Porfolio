@@ -15,10 +15,19 @@
 
 ### Preview
 
-![Landing page](Bank-Marketing-Campaign/images/bank-marketing-landing.png)
-![Overview page](Bank-Marketing-Campaign/images/banking-marketing-overview.png)
-![Customer segmentation page](Bank-Marketing-Campaign/images/bank-marketing-campaign-customer.png)
-![Predictive insights page](Bank-Marketing-Campaign/images/bank-marketing-insights.png)
-![Hidden filter panel on customer page](Bank-Marketing-Campaign/images/bank-marketing-filter.png)
+**Landing page:**
+<img width="1438" height="801" alt="Image" src="https://github.com/user-attachments/assets/c26914bf-5a6f-4ecb-bfe5-d7c6818734a5" />
+
+**Overview page:**
+<img width="1434" height="802" alt="Image" src="https://github.com/user-attachments/assets/df0e00a6-4d37-46d2-a2d8-fb8ecc0bbddd" />
+
+**Customer segmentation page:**
+<img width="1435" height="800" alt="Image" src="https://github.com/user-attachments/assets/f0fc9fef-fe8d-4467-9b73-8fd661ab35d4" />
+
+**Predictive insights page:**
+<img width="1432" height="802" alt="Image" src="https://github.com/user-attachments/assets/3ca45503-d69c-44a3-b048-6936c30f94a9" />
+
+**Filter:** 
+<img width="1434" height="801" alt="Image" src="https://github.com/user-attachments/assets/2a89cc72-7e66-4539-9004-71e3a7481dde" />
 
 [Download the .pbix file](Bank-Marketing-Campaign/bank-marketing-campaign.pbix)
