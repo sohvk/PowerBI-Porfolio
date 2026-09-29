@@ -15,7 +15,7 @@
 ## Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| Bank Marketing Campaign performance | Customer Conversion & Term Deposit Subscription Analysis | Power BI, DAX, Figma, PowerQuery |
+| [Bank Marketing Campaign performance](Bank-Marketing-Campaign/README.md) | Customer Conversion & Term Deposit Subscription Analysis | Power BI, DAX, Figma, PowerQuery |
 
 ## About me
 Hi, I'm Sofia, a Senior Analyst in data and process intelligence based in Helsinki, Finland. With a background in finance and accounting, I turn complex data into clear, decision-ready insights.
